@@ -1,4 +1,7 @@
 
+// Make sure you've added the official Arduino PID library to your libraries
+// https://playground.arduino.cc/Code/PIDLibrary/
+
 #include <PID_v1.h>
 int i = 0;
 int rpm;
